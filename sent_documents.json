@@ -1,4 +1,185 @@
 {
   "sent": [
-  ]
+    {
+      "date": "31/03/2026",
+      "date_iso": "2026-03-31",
+      "filename": "2026-03-31 BDIF11 Relat\u00f3rio Mensal.pdf",
+      "id": "relatorio mensal|2026-03-31|https://static.btgpactual.com/media/rm/40502607000194_20260331_RM.pdf",
+      "resend_email_id": "2083164a-05e2-440b-b3c2-12fa7715a42c",
+      "sent_at": "2026-04-25T18:29:27.440321+00:00",
+      "sha256": "90b7e4b61a401c4564fbaa58b855e96b17a645ca9e99982045e145cdbf5cbc2d",
+      "title": "Relat\u00f3rio Mensal",
+      "type": "RELATORIO MENSAL",
+      "url": "https://static.btgpactual.com/media/rm/40502607000194_20260331_RM.pdf"
+    },
+    {
+      "date": "27/02/2026",
+      "date_iso": "2026-02-27",
+      "filename": "2026-02-27 BDIF11 Relat\u00f3rio Mensal.pdf",
+      "id": "relatorio mensal|2026-02-27|https://static.btgpactual.com/media/rm/40502607000194_20260227_RM.pdf",
+      "resend_email_id": "23977dc2-e8a2-4ebf-b395-463de0f2e754",
+      "sent_at": "2026-04-25T18:29:30.090062+00:00",
+      "sha256": "9705ac0a4dadc885f1787f997aad8909fb0fc8752b637d77befdd9fdea1cec63",
+      "title": "Relat\u00f3rio Mensal",
+      "type": "RELATORIO MENSAL",
+      "url": "https://static.btgpactual.com/media/rm/40502607000194_20260227_RM.pdf"
+    },
+    {
+      "date": "30/01/2026",
+      "date_iso": "2026-01-30",
+      "filename": "2026-01-30 BDIF11 Relat\u00f3rio Mensal.pdf",
+      "id": "relatorio mensal|2026-01-30|https://static.btgpactual.com/media/rm/40502607000194_20260131_RM.pdf",
+      "resend_email_id": "5c30492a-1231-4726-b87f-29399e5c115f",
+      "sent_at": "2026-04-25T18:29:32.731975+00:00",
+      "sha256": "810b9f8877a7a5bd3abdb27402ebaa09838193ecddfb80693a41f8f5ffac7646",
+      "title": "Relat\u00f3rio Mensal",
+      "type": "RELATORIO MENSAL",
+      "url": "https://static.btgpactual.com/media/rm/40502607000194_20260131_RM.pdf"
+    },
+    {
+      "date": "31/12/2025",
+      "date_iso": "2025-12-31",
+      "filename": "2025-12-31 BDIF11 Relat\u00f3rio Mensal.pdf",
+      "id": "relatorio mensal|2025-12-31|https://static.btgpactual.com/media/rm/40502607000194_20251231_RM.pdf",
+      "resend_email_id": "8e69706e-67cd-4a72-ab91-a218bfce1f1a",
+      "sent_at": "2026-04-25T18:29:35.445657+00:00",
+      "sha256": "a5de04838b7525c911721f11b8501dea38e2e0b34037a21de0f64d1fd68de337",
+      "title": "Relat\u00f3rio Mensal",
+      "type": "RELATORIO MENSAL",
+      "url": "https://static.btgpactual.com/media/rm/40502607000194_20251231_RM.pdf"
+    },
+    {
+      "date": "30/11/2025",
+      "date_iso": "2025-11-30",
+      "filename": "2025-11-30 BDIF11 Relat\u00f3rio Mensal.pdf",
+      "id": "relatorio mensal|2025-11-30|https://static.btgpactual.com/media/rm/40502607000194_20251130_RM.pdf",
+      "resend_email_id": "ca968f42-ac9c-419a-a090-a0b46905d77a",
+      "sent_at": "2026-04-25T18:29:38.109272+00:00",
+      "sha256": "e99a5f64f4c684b8ded5bcbb645adaa9ed6fb50be1fecc05beb5ed8a3d082946",
+      "title": "Relat\u00f3rio Mensal",
+      "type": "RELATORIO MENSAL",
+      "url": "https://static.btgpactual.com/media/rm/40502607000194_20251130_RM.pdf"
+    },
+    {
+      "date": "31/10/2025",
+      "date_iso": "2025-10-31",
+      "filename": "2025-10-31 BDIF11 Relat\u00f3rio Mensal.pdf",
+      "id": "relatorio mensal|2025-10-31|https://static.btgpactual.com/media/rm/40502607000194_20251031_RM.pdf",
+      "resend_email_id": "51216b4b-8725-42e0-bea6-3e48ae6f892c",
+      "sent_at": "2026-04-25T18:29:40.239143+00:00",
+      "sha256": "07d1c3068a83433751ff959dfc4dddd920bcaee58c58c08cce7fb634cb5092bb",
+      "title": "Relat\u00f3rio Mensal",
+      "type": "RELATORIO MENSAL",
+      "url": "https://static.btgpactual.com/media/rm/40502607000194_20251031_RM.pdf"
+    },
+    {
+      "date": "30/09/2025",
+      "date_iso": "2025-09-30",
+      "filename": "2025-09-30 BDIF11 Relat\u00f3rio Mensal.pdf",
+      "id": "relatorio mensal|2025-09-30|https://static.btgpactual.com/media/rm/40502607000194_20250930_RM.pdf",
+      "resend_email_id": "230930aa-dff0-4255-bd62-993c5644af9f",
+      "sent_at": "2026-04-25T18:29:42.435603+00:00",
+      "sha256": "c7c0d268b50b3daecafad0109d3c3ad56b5c1c7489629058c6e6ffccf527b6b9",
+      "title": "Relat\u00f3rio Mensal",
+      "type": "RELATORIO MENSAL",
+      "url": "https://static.btgpactual.com/media/rm/40502607000194_20250930_RM.pdf"
+    },
+    {
+      "date": "31/08/2025",
+      "date_iso": "2025-08-31",
+      "filename": "2025-08-31 BDIF11 Relat\u00f3rio Mensal.pdf",
+      "id": "relatorio mensal|2025-08-31|https://static.btgpactual.com/media/rm/40502607000194_20250831_RM.pdf",
+      "resend_email_id": "9b0ef5fe-573f-4d90-856a-97ac8f3254a6",
+      "sent_at": "2026-04-25T18:29:43.976257+00:00",
+      "sha256": "aa75c5aaf5804f00a3f36cf67d5a8590aac8345dc854599481534b18257d1afb",
+      "title": "Relat\u00f3rio Mensal",
+      "type": "RELATORIO MENSAL",
+      "url": "https://static.btgpactual.com/media/rm/40502607000194_20250831_RM.pdf"
+    },
+    {
+      "date": "28/08/2025",
+      "date_iso": "2025-08-28",
+      "filename": "2025-08-28 BDIF11 Fato Relevante.pdf",
+      "id": "fatos relevantes|2025-08-28|https://static.btgpactual.com/media/fr/40502607000194_20250828_FR.pdf",
+      "resend_email_id": "071927c4-8cd5-4f8f-8f1e-7d092b218db2",
+      "sent_at": "2026-04-25T18:29:44.258595+00:00",
+      "sha256": "4d549e5c02dfecf5a4893013d731a6805a3862308ffc6d816ebf6f310261909d",
+      "title": "Fato Relevante",
+      "type": "FATOS RELEVANTES",
+      "url": "https://static.btgpactual.com/media/fr/40502607000194_20250828_FR.pdf"
+    },
+    {
+      "date": "31/07/2025",
+      "date_iso": "2025-07-31",
+      "filename": "2025-07-31 BDIF11 Relat\u00f3rio Mensal.pdf",
+      "id": "relatorio mensal|2025-07-31|https://static.btgpactual.com/media/rm/40502607000194_20250731_RM.pdf",
+      "resend_email_id": "e764d34d-3cac-4a7d-a73c-029a46446f26",
+      "sent_at": "2026-04-25T18:29:45.975087+00:00",
+      "sha256": "69de88d22a1eefdf48d945c33db2d89208fc53000ed88c02f79476ea536cb622",
+      "title": "Relat\u00f3rio Mensal",
+      "type": "RELATORIO MENSAL",
+      "url": "https://static.btgpactual.com/media/rm/40502607000194_20250731_RM.pdf"
+    },
+    {
+      "date": "30/06/2025",
+      "date_iso": "2025-06-30",
+      "filename": "2025-06-30 BDIF11 Relat\u00f3rio Mensal.pdf",
+      "id": "relatorio mensal|2025-06-30|https://static.btgpactual.com/media/rm/40502607000194_20250630_RM.pdf",
+      "resend_email_id": "a7b097b0-8cf8-481d-81f7-d38e45282719",
+      "sent_at": "2026-04-25T18:29:47.114942+00:00",
+      "sha256": "7e19aab013f972efe71e3394895678eb792de135dac479ce92294b117bc2c7e2",
+      "title": "Relat\u00f3rio Mensal",
+      "type": "RELATORIO MENSAL",
+      "url": "https://static.btgpactual.com/media/rm/40502607000194_20250630_RM.pdf"
+    },
+    {
+      "date": "30/05/2025",
+      "date_iso": "2025-05-30",
+      "filename": "2025-05-30 BDIF11 Relat\u00f3rio Mensal.pdf",
+      "id": "relatorio mensal|2025-05-30|https://static.btgpactual.com/media/rm/40502607000194_20250530_RM_v2.pdf",
+      "resend_email_id": "81b5191e-ecf6-4bd6-9a76-25122b72ed70",
+      "sent_at": "2026-04-25T18:29:49.074155+00:00",
+      "sha256": "811fe49a7ab87e4ad776e8e8fc6ff9296f3fa0ec13ae9ec8f6cd07609ea527ea",
+      "title": "Relat\u00f3rio Mensal",
+      "type": "RELATORIO MENSAL",
+      "url": "https://static.btgpactual.com/media/rm/40502607000194_20250530_RM_v2.pdf"
+    },
+    {
+      "date": "30/04/2025",
+      "date_iso": "2025-04-30",
+      "filename": "2025-04-30 BDIF11 Relat\u00f3rio Mensal.pdf",
+      "id": "relatorio mensal|2025-04-30|https://static.btgpactual.com/media/rm/40502607000194_20250430_RM.pdf",
+      "resend_email_id": "20422619-1f1e-4806-bdaf-7b8501f22c9a",
+      "sent_at": "2026-04-25T18:29:50.692404+00:00",
+      "sha256": "9f2e8f1f72441fe8c319d0293f17d842fbfd5f5be9edeb26857ca14664a1cef7",
+      "title": "Relat\u00f3rio Mensal",
+      "type": "RELATORIO MENSAL",
+      "url": "https://static.btgpactual.com/media/rm/40502607000194_20250430_RM.pdf"
+    },
+    {
+      "date": "31/03/2025",
+      "date_iso": "2025-03-31",
+      "filename": "2025-03-31 BDIF11 Relat\u00f3rio Mensal.pdf",
+      "id": "relatorio mensal|2025-03-31|https://static.btgpactual.com/media/rm/40502607000194_20250331_RM_v1.pdf",
+      "resend_email_id": "4be20f4b-2678-46bf-865c-16cf01ec16ba",
+      "sent_at": "2026-04-25T18:29:52.658140+00:00",
+      "sha256": "1e9a745a853ad69f867921242faf1b2419187f3a88df175318dd2b89872a62ea",
+      "title": "Relat\u00f3rio Mensal",
+      "type": "RELATORIO MENSAL",
+      "url": "https://static.btgpactual.com/media/rm/40502607000194_20250331_RM_v1.pdf"
+    },
+    {
+      "date": "28/02/2025",
+      "date_iso": "2025-02-28",
+      "filename": "2025-02-28 BDIF11 Relat\u00f3rio Mensal.pdf",
+      "id": "relatorio mensal|2025-02-28|https://static.btgpactual.com/media/rm/40502607000194_20250228_RM.pdf",
+      "resend_email_id": "c36e542a-7d7a-4f16-8053-51ae8914e092",
+      "sent_at": "2026-04-25T18:29:54.068274+00:00",
+      "sha256": "0f7ec78eeb4cab996c5a294cd53f21659c9fe0f24f7ea876764f0ee6c4b1f0fe",
+      "title": "Relat\u00f3rio Mensal",
+      "type": "RELATORIO MENSAL",
+      "url": "https://static.btgpactual.com/media/rm/40502607000194_20250228_RM.pdf"
+    }
+  ],
+  "updated_at": "2026-04-25T18:29:54.068274+00:00"
 }
