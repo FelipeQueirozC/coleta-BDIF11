@@ -1,0 +1,55 @@
+name: Daily BDIF11 Mailer
+
+on:
+  schedule:
+    - cron: "0 14 * * 1-5"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bdif11-mailer
+  cancel-in-progress: false
+
+jobs:
+  send:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run mailer
+        id: mailer
+        continue-on-error: true
+        env:
+          RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
+          RESEND_FROM_EMAIL: ${{ secrets.RESEND_FROM_EMAIL || vars.RESEND_FROM_EMAIL }}
+          RESEND_TO_EMAIL: ${{ secrets.RESEND_TO_EMAIL || vars.RESEND_TO_EMAIL }}
+        run: python main.py
+
+      - name: Commit sent state
+        if: always()
+        run: |
+          if git diff --quiet -- sent_documents.json; then
+            echo "No sent state changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add sent_documents.json
+          git commit -m "Update sent BDIF11 documents"
+          git push
+
+      - name: Fail if mailer failed
+        if: steps.mailer.outcome == 'failure'
+        run: exit 1
