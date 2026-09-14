@@ -1,6 +1,18 @@
 {
   "sent": [
     {
+      "date": "31/08/2026",
+      "date_iso": "2026-08-31",
+      "filename": "2026-08-31 BDIF11 Relat\u00f3rio Mensal.pdf",
+      "id": "relatorio mensal|2026-08-31|https://static.btgpactual.com/media/rm/40502607000194_20260831_RM.pdf",
+      "resend_email_id": "ea1783b6-835f-4db4-8044-342ed6adc079",
+      "sent_at": "2026-09-14T19:05:07.918928+00:00",
+      "sha256": "ee92ee8685a5a7d40364ffec79c79b0bf816330bdbfe02fd8b79df7b1082ad15",
+      "title": "Relat\u00f3rio Mensal",
+      "type": "RELATORIO MENSAL",
+      "url": "https://static.btgpactual.com/media/rm/40502607000194_20260831_RM.pdf"
+    },
+    {
       "date": "31/07/2026",
       "date_iso": "2026-07-31",
       "filename": "2026-07-31 BDIF11 Relat\u00f3rio Mensal.pdf",
@@ -829,5 +841,5 @@
       "url": "https://static.btgpactual.com/media/rm/40502607000194_20210430_RM.pdf"
     }
   ],
-  "updated_at": "2026-08-14T14:53:29.353039+00:00"
+  "updated_at": "2026-09-14T19:05:07.918974+00:00"
 }
